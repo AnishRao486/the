@@ -1,0 +1,25 @@
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px black;
+    color:white !important;
+    background:gray;
+}
+
+.header_div{
+    color:black;
+    float:none;
+    padding:15px;
+    background:white;
+    box-shadow:5px 5px 5px black;
+    border-radius: 25px;
+}
+
+.header1{
+    font-size:20px;
+}
+
+.header_div h3{
+    font-size:25px;
+}
